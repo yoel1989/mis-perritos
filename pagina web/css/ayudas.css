@@ -1,0 +1,56 @@
+/* .info-animales{
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    justify-content: space-evenly;
+}
+
+.ayudano-contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.info-animales{
+    margin: 20px;
+
+}
+
+.info-animales img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+} */
+
+#info{
+    background: rgb(226, 226, 226);
+    color: rgb(14, 11, 11);
+    text-align: center;
+    padding: 20px;
+}
+
+#info .contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-animales{
+    margin: 20px;
+    padding: 0px;
+
+}
+
+.info-animales img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 7px solid rgb(15, 13, 13);
+    cursor: pointer;
+    
+
+}
+
